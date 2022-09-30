@@ -1,4 +1,4 @@
-# Signup with Xero - "SSU to Lead"
+# Signup with Xero (Modified Flow)
 
 > _Single Sign Up to Web Lead_
 
